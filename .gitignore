@@ -4,7 +4,7 @@ frontend/node_modules/
 
 # environment files
 .env
-.env.local
+
 
 # build and logs
 build/
